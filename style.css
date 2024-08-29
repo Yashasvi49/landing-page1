@@ -1,0 +1,65 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+html, body {
+width: 100%;
+height: 100%;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://images.unsplash.com/photo-1723404102067-ee64a8548ad0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 1px;
+    /* background-color: pink; */
+    /* background:linear-gradient( to top right , yellow, orange, white); */
+    /* background: linear-gradient(#ec6f66, #F3A183 ) ; */
+    /* background: radial-gradient( yellow, orange, white); */
+    
+}  
+/* body{
+    font-family: Arial, Helvetica, sans-serif
+} */
+
+/* .container1{
+    width: 100%;
+    height: 100%;
+   background: linear-gradient(#f2709c, #ff9472);
+   background: linear-gradient(to top, #C6FFDD, #FBD786, #f7797d);
+   
+} */
+h1{
+    font-family: "Bebas Neue", sans-serif;
+    margin-top: 215px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    font-weight: 900;
+
+}
+
+p{
+    margin: 20px;
+    text-align: center;
+    color: white;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    font-size:larger;
+}
+
+button{
+font-size: 17px;
+    margin: auto;
+    display: block;
+    color: rgb(209, 157, 90);
+    padding: 10px 25px;
+    border: none;
+    border-radius: 7px;
+    background-color: white;
+margin-top: 70px;
+font-family: "Bebas Neue", sans-serif;
+}
